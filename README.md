@@ -37,15 +37,6 @@ Se você já tiver arquivos MP3, basta colocá-los na pasta Music/ dentro do mod
 
 O sPEAKer lerá os arquivos automaticamente.
 
-4. Observações
-
-O mod inclui yt-dlp.exe e ffmpeg.exe dentro da pasta tools, então não é necessário instalar nada extra.
-
-Para atualizar músicas, basta rodar o downloadmixtape.bat novamente.
-
-
-
-
 
 1. Installation
 
@@ -86,11 +77,7 @@ If you already have MP3 files, just put them into the Music/ folder inside the m
 
 sPEAKer will read the files automatically.
 
-4. Notes
 
-The mod includes yt-dlp.exe and ffmpeg.exe inside the tools folder, so no extra installation is required.
-
-To update or add more music, just run the downloadmixtape.bat again.
 
 MySpeakerMod 🎶
 A mod for [Peak] that lets you play custom music.
