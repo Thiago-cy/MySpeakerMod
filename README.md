@@ -91,6 +91,34 @@ sPEAKer will read the files automatically.
 The mod includes yt-dlp.exe and ffmpeg.exe inside the tools folder, so no extra installation is required.
 
 To update or add more music, just run the downloadmixtape.bat again.
+
+MySpeakerMod 🎶
+A mod for [Peak] that lets you play custom music.
+⚠️ To function properly, you need to download some external executables.
+
+📥 Required dependencies
+This mod depends on the following programs:
+
+ffmpeg and ffprobe
+yt-dlp
+🔹 How to download the executables
+FFmpeg + FFprobe
+
+Download the latest version from: FFmpeg Download
+From the .zip file, get the ffmpeg.exe and ffprobe.exe files.
+Place them inside the mod's tools/ folder.
+yt-dlp
+
+Download the latest version from: yt-dlp Releases
+Get the yt-dlp.exe file.
+Also place it inside the tools/ folder.
+🚀 How to use
+Download this repository or clone it with Git.
+Put the necessary executables inside tools/.
+Run the mod as usual.
+ℹ️ Notes
+The executables are not included in this repository to avoid size issues.
+
 # MySpeakerMod 🎶
 
 Mod para [Peak] que permite tocar músicas personalizadas.  
