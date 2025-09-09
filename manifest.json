@@ -1,0 +1,9 @@
+{
+  "name": "MySpeakerMod",
+  "version_number": "1.0.0",
+  "website_url": "https://thunderstore.io/c/peak/p/ThiagoReddo/MySpeakerMod/",
+  "description": "Mod complementar que adiciona músicas personalizadas ao sPEAKer.",
+  "dependencies": [
+    "onlystar-sPEAKer-1.9.1"
+  ]
+}
